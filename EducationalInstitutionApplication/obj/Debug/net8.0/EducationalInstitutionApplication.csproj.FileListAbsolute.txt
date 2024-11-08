@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/bin/Debug/net8.0/EducationalInstitutionApplication
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/bin/Debug/net8.0/EducationalInstitutionApplication.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/bin/Debug/net8.0/EducationalInstitutionApplication.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/bin/Debug/net8.0/EducationalInstitutionApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/bin/Debug/net8.0/EducationalInstitutionApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/refint/EducationalInstitutionApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/EducationalInstitutionApplication.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EducationalInstitutionApplication/obj/Debug/net8.0/ref/EducationalInstitutionApplication.dll

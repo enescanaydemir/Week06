@@ -1,0 +1,14 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/bin/Debug/net8.0/VehicleManagementSystemProject
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/bin/Debug/net8.0/VehicleManagementSystemProject.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/bin/Debug/net8.0/VehicleManagementSystemProject.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/bin/Debug/net8.0/VehicleManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/bin/Debug/net8.0/VehicleManagementSystemProject.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/refint/VehicleManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/VehicleManagementSystemProject.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/Debug/net8.0/ref/VehicleManagementSystemProject.dll

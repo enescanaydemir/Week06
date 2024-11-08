@@ -1,0 +1,14 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/bin/Debug/net8.0/ZoologicalApplication
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/bin/Debug/net8.0/ZoologicalApplication.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/bin/Debug/net8.0/ZoologicalApplication.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/bin/Debug/net8.0/ZoologicalApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/bin/Debug/net8.0/ZoologicalApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/refint/ZoologicalApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ZoologicalApplication.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/Debug/net8.0/ref/ZoologicalApplication.dll

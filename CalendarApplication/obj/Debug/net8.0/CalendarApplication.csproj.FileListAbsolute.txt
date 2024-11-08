@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/bin/Debug/net8.0/CalendarApplication
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/bin/Debug/net8.0/CalendarApplication.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/bin/Debug/net8.0/CalendarApplication.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/bin/Debug/net8.0/CalendarApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/bin/Debug/net8.0/CalendarApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/refint/CalendarApplication.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/CalendarApplication.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/Debug/net8.0/ref/CalendarApplication.dll

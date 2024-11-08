@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/bin/Debug/net8.0/EmployeeManagementSystemProject
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/bin/Debug/net8.0/EmployeeManagementSystemProject.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/bin/Debug/net8.0/EmployeeManagementSystemProject.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/bin/Debug/net8.0/EmployeeManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/bin/Debug/net8.0/EmployeeManagementSystemProject.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/refint/EmployeeManagementSystemProject.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/EmployeeManagementSystemProject.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/Debug/net8.0/ref/EmployeeManagementSystemProject.dll
